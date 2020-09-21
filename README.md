@@ -1,3 +1,6 @@
+This code is associated with the paper from Timshel et al., "Genetic mapping of etiologic brain cell
+types for obesity". eLife, 2020. http://doi.org/10.7554/eLife.55851
+
 # Mapping heritability of obesity by cell types
 
 This repository contains code to reproduce analysis and figures in presented in:  
